@@ -90,7 +90,7 @@ Concluí o ensino médio técnico no IMCL (Instituto Médio Comercial de Luanda)
 />
 
 <img
-    align="left"
+    align="right"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
